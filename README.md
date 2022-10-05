@@ -24,8 +24,8 @@
 
 ### My latest open source projects 👨‍💻:
 <p align="center">
-	<a href="https://github.com/LABORA-INF-UFG/eXP-RAN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LABORA-INF-UFG&repo=eXP-RAN&theme=tokyonight"></a>
-    <a href="https://github.com/LABORA-INF-UFG/QoE-DASH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LABORA-INF-UFG&repo=QoE-DASH&theme=tokyonight"></a>
+	<a href="https://github.com/LABORA-INF-UFG/QoE-DASH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LABORA-INF-UFG&repo=QoE-DASH&theme=tokyonight"></a>
+    <a href="https://github.com/LABORA-INF-UFG/eXP-RAN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LABORA-INF-UFG&repo=eXP-RAN&theme=tokyonight"></a>
 </p>
 
 ### My GitHub stats 📈:
