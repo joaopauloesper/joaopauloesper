@@ -24,11 +24,11 @@
 
 ### My latest open source projects 👨‍💻:
 <p align="center">
-	<a href="https://github.com/LABORA-INF-UFG/QoE-DASH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LABORA-INF-UFG&repo=QoE-DASH&theme=tokyonight"></a>
-    <a href="https://github.com/LABORA-INF-UFG/eXP-RAN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LABORA-INF-UFG&repo=eXP-RAN&theme=tokyonight"></a>
+	<a href="https://github.com/LABORA-INF-UFG/QoE-DASH"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LABORA-INF-UFG&repo=QoE-DASH&theme=tokyonight"></a>
+    <a href="https://github.com/LABORA-INF-UFG/eXP-RAN"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LABORA-INF-UFG&repo=eXP-RAN&theme=tokyonight"></a>
 </p>
 
 ### My GitHub stats 📈:
 <p align="center">
-	<a><img src="https://github-readme-stats.vercel.app/api?username=joaopauloesper&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight"></a>
+	<a><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaopauloesper&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight"></a>
 </p>
